@@ -1,2 +1,2 @@
 # Almacen_De_Fotos
-Almacén de Fotos para páginas web y otros propósitos.
+Almacén de fotos para páginas web y otros propósitos.
